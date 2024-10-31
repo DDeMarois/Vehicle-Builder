@@ -2,9 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- To be able to add different kinds of vehicles and their details.
+- I wanted to be able to add different kinds of vehicles and their details.
 - I built this in order to enter, and see all of the details about different vehicles.
 - It creates an easy way to input vehicles and their details.
 - I learned how to use TypeScript and object types. What did you learn?
