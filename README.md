@@ -12,6 +12,8 @@ Provide a short description explaining the what, why, and how of your project. U
 ## Installation and Usage
 
 - Please see attatched video on how to use, and deploy.
+- https://drive.google.com/file/d/1BayAACGRFjZYas60TLGEQthFeQV44w9u/view
+- 
 ## Credits
 
 - Drew DeMarois
